@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💻  I'm a Junior Full-Stack Developer
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js & Next.js 14**
 
 - 📫 How to reach me **metefurkanokumus@gmail.com**
 
